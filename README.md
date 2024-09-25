@@ -8,7 +8,7 @@
 ![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&bg_color=00000000&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&bg_color=00000000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebull7&layout=donut-vertical&bg_color=00000000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Bluebull7/Bluebull7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
