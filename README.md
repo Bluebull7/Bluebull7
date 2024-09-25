@@ -2,8 +2,8 @@
 
 ### -🔵- My Name is Lance Henry, AKA Bluebull7 -🔵-
 
-- ⚡ About Me: I am a Big 4 accountant specializing in cyber risk
-- 🌱 I’m currently studying: Solidity, System Architure, Cryptograhic Frameworks, Device Drivers,                                Packet Analysis, Custom Encoding
+- ⚡ About Me: I am a Big 4 accountant specializing in Cyber Risk
+- 🌱 I’m currently studying: Solidity, System Architure, Cryptograhic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
 
 
 <!--
