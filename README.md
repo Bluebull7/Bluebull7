@@ -4,8 +4,8 @@
 
 - ⚡ About Me: I am a Big 4 accountant specializing in Cyber Risk
 - 🌱 I’m currently studying: Solidity, System Architure, Cryptograhic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
-
-[![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?bluebull7=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Bluebull7/Bluebull7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
