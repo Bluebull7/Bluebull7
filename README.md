@@ -5,8 +5,6 @@
 - ⚡ About Me: I am a Big 4 accountant specializing in Cyber Risk
 - 🌱 I’m currently studying: Solidity, System Architure, Cryptograhic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
 
-![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&theme=radical)
-
 ![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&bg_color=00000000&theme=radical)
 
 
