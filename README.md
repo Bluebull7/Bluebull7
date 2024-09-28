@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### -🔵- My Name is Lance Henry, AKA Bluebull7 -🔵-
+### -🔵- My Name is Lance, AKA Bluebull7 -🔵-
 
 - ⚡ About Me: I am a Big 4 accountant
 - 🌱 I’m currently studying: Solidity, Systems Architecture, Cryptographic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
