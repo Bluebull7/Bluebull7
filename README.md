@@ -3,7 +3,7 @@
 ### -🔵- My Name is Lance Henry, AKA Bluebull7 -🔵-
 
 - ⚡ About Me: I am a Big 4 accountant
-- 🌱 I’m currently studying: Solidity, Systems Architecture, Cryptograhic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
+- 🌱 I’m currently studying: Solidity, Systems Architecture, Cryptographic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
 
 ![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&bg_color=00000000&theme=radical)
 
