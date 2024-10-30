@@ -2,12 +2,11 @@
 
 ### -🔵- My Name is Lance, AKA Bluebull7 -🔵-
 
-- ⚡ About Me: I am a public accountant
 - 🌱 I’m currently studying: Solidity, Systems Architecture, Cryptographic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
 
-![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&bg_color=00000000&theme=radical)
+![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebull7&layout=donut&bg_color=00000000&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluebull7&layout=donut&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bluebull7&theme=radical)](https://git.io/streak-stats)
 
