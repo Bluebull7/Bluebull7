@@ -2,7 +2,7 @@
 
 ### -🔵- My Name is Lance, AKA Bluebull7 -🔵-
 
-- 🌱 I’m currently studying: Solidity, Systems Architecture, Cryptographic Frameworks, Device Drivers, Packet Analysis, and Custom Encoding
+- 🌱 I’m currently studying: Azure Cloud, Systems Architecture, Cloud Automation
 
 ![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&theme=radical)
 
