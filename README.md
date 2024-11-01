@@ -2,7 +2,7 @@
 
 ### -🔵- My Name is Lance, AKA Bluebull7 -🔵-
 
-- 🌱 I’m currently studying: Azure Cloud, Systems Architecture, Cloud Automation
+- 🌱 I’m currently studying: Azure, Systems Design, Cloud Automation, Full Stack Web Development
 
 ![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&theme=radical)
 
