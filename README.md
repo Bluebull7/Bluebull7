@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on:
   - **[HexaCode](https://github.com/Bluebull7/HexaCode)**: A custom French-based programming language with an interactive web-based playground.
   - **[e-reader](https://github.com/Bluebull7/e-reader)**: A project leveraging PyMuPDF for high-performance data extraction, analysis, and manipulation of PDF documents.
-  - **[pwc-automation](https://github.com/Bluebull7/pwc-automation)**: Automation tools and scripts for streamlining IT audit processes and cloud migrations.
+
 
 ![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&theme=radical)
 
