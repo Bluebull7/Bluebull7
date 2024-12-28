@@ -7,7 +7,7 @@
 - 🔧 I’m skilled in: Systems Design, Cloud Automation, and Full Stack Web Development
 - 🔭 I’m currently working on:
   - **[HexaCode](https://github.com/Bluebull7/HexaCode)**: A custom French-based programming language with an interactive web-based playground.
-  - **[e-reader](https://github.com/Bluebull7/e-reader)**: A project leveraging PyMuPDF for high-performance data extraction, analysis, and manipulation of PDF documents.
+  - **[e-reader](https://github.com/Bluebull7/e-reader)**: A simple no distractions e-reader built with Python.
 
 
 ![BlueBull7's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluebull7&show_icons=true&theme=radical)
