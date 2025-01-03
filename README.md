@@ -3,7 +3,7 @@
 ### -🔵- My Name is Lance, AKA Bluebull7 -🔵-
 
 - 🌱 I’m currently studying: IT Audit, Automation, Cloud Computing, and AI Engineering
-- ☁️ I’m focused on: Azure, AWS, and SpaCy
+- ☁️ I’m focused on: Azure, redis, and SpaCy
 - 🔧 I’m skilled in: Systems Design, Cloud Automation, and Full Stack Web Development
 - 🔭 I’m currently working on:
   - **[HexaCode](https://github.com/Bluebull7/HexaCode)**: A custom French-based programming language with an interactive web-based playground.
